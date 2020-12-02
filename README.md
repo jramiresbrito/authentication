@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# Authentication & Github 101
+
+## Live Coded for LeWagon's Fullstack bootcamp Batch#513
